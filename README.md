@@ -31,7 +31,7 @@ Before running this project, make sure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd react-navigation-app
+   cd CODE-EDITOR
    ```
 
 2. **Install dependencies**
